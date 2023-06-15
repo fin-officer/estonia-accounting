@@ -51,6 +51,26 @@ We look forward to your inquiry.
 
 # SaaS + API
 
+
+## [e-resident store  e-Residency](https://marketplace.e-resident.gov.ee/company/e-resident-store/)
+??
+
+[Accounting - Sunny Business Services Accounting environment](https://www.sunnybusiness.ee/accounting/#)
+![image](https://github.com/tom-sapletta-com/estonia-accounting/assets/5669657/416f4f9f-fec1-4d17-8077-f9fab5fdaed9)
+
+
+
+## [e-Residency Hub - e-Residency](https://marketplace.e-resident.gov.ee/company/e-residency-hub/)
+
+??
+[Our services - E-Residency Hub](https://erhub.ee/our-services/)
+
+
+## [1Office Estonia - e-Residency](https://marketplace.e-resident.gov.ee/company/1office-estonia/)
+[Accounting Service in Estonia | 1Office](https://1office.co/estonia/product/accountants-hourly-fee/)
+
+
+
 ## [Enty.io - e-Residency](https://marketplace.e-resident.gov.ee/company/enty-io/)
 
 [Pricing - Single Subscription to Manage a Company | Enty](https://enty.io/pricing)
