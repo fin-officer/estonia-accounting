@@ -26,6 +26,8 @@ Pricing plan
 ![image](https://github.com/tom-sapletta-com/estonia-accounting/assets/5669657/38120f31-183d-4c5a-afb6-e51979d8e22b)
 
 
+
+
 ## [E Consult - e-Residency](https://marketplace.e-resident.gov.ee/company/e-consult/)
 
 [Accounting services – consult](https://e-consult.ee/en/accounting-services/)
@@ -53,7 +55,8 @@ We look forward to your inquiry.
 
 
 ## [e-resident store  e-Residency](https://marketplace.e-resident.gov.ee/company/e-resident-store/)
-??
+
+?? API
 
 [Accounting - Sunny Business Services Accounting environment](https://www.sunnybusiness.ee/accounting/#)
 ![image](https://github.com/tom-sapletta-com/estonia-accounting/assets/5669657/416f4f9f-fec1-4d17-8077-f9fab5fdaed9)
@@ -62,8 +65,15 @@ We look forward to your inquiry.
 
 ## [e-Residency Hub - e-Residency](https://marketplace.e-resident.gov.ee/company/e-residency-hub/)
 
-??
+?? API
 [Our services - E-Residency Hub](https://erhub.ee/our-services/)
+
+[Pricing - E-Residency Hub](https://erhub.ee/pricing/)
+
+![image](https://github.com/tom-sapletta-com/estonia-accounting/assets/5669657/35be1490-b9ba-44cc-be8e-447687365e7a)
+
+
+
 
 
 ## [1Office Estonia - e-Residency](https://marketplace.e-resident.gov.ee/company/1office-estonia/)
