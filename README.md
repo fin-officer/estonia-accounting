@@ -87,6 +87,8 @@ https://www.smartaccounts.eu/en/pricing/
 ![image](https://github.com/tom-sapletta-com/estonia-accounting/assets/5669657/b36b4937-0d73-4359-87c8-e053024f2c35)
 
 
+![image](https://github.com/tom-sapletta-com/estonia-accounting/assets/5669657/fca4c1a4-07fa-4b5e-9fca-34237caa9bc4)
+
 
 
 
