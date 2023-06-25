@@ -86,6 +86,10 @@ features
 
 
 
+## Finbite - saas invoicing
+
++ [Try out smart invoicing solutions for free - Finbite](https://finbite.eu/en/)
+
 
 
 # NOT
